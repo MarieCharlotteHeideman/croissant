@@ -15,7 +15,11 @@ footer {
   justify-content: center;
 }
 
-a {
+footer a {
   margin: 10px;
   color: green;
+}
+
+.email-link {
+  color: blue;
 }
